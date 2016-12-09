@@ -1,0 +1,26 @@
+Site categories of organization:
+ HOME PAGE:
+* comprised of a news feed with updates about past, current, and future projects  
+* all items listed in chronological order with an RSS feed type format
+PORTFOLIO:
+* section contains all portfolio content listed as individual items with descriptions or in a grid layout in chronological order
+* tools to sort search results according to: 
+* type of work: personal, commission, etc.
+* type of medium: traditional media, 3d modeling, photography, etc.
+* individual projects.
+* mediums include: 
+* traditional: graphite, print, paint, etc.
+* digital: digital art, photography, etc.
+* cg work: maya/zbrush modeling projects, unity projects
+CONTACT INFORMATION:
+* includes personal information, short bio, and professional contact links - emphasis on professional information.
+* links to:
+* professional email, 
+* LinkedIn, 
+* Handshake
+* other professional social media.
+* Call To Action - visitor initiates contact regarding resume or potential job - is performed on this page.
+GENERAL: 
+* include navigation bar & header image along the top of all pages
+* include sidebar with specific options for each page
+
